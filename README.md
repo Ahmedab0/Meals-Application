@@ -1,6 +1,9 @@
 # meal_app
 
-A new Flutter project.
+meals application.
+ themes: supports dark, light mode.
+ localization: supports Arabic and English
+ local storage: shared preferences..
 
 ## Getting Started
 
