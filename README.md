@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Flutter project built using Provider State Management, Shared Preferences, Localization (En, Ar), Support Dark and light Mode.
+- A new flutter project built using Provider State Management, Shared Preferences, Localization (EN & AR), Support Dark and Light Mode.
 
 
 
